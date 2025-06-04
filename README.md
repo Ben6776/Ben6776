@@ -22,6 +22,9 @@ Welcome to my GitHub profile repository! Here you’ll find highlights of my key
 
 I am a passionate software developer with experience in building AI-powered applications and APIs. I enjoy leveraging the latest technologies to solve real-world problems efficiently.
 
+- 📫 **Email:** ben.dias.akkara@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/ben-dias](https://www.linkedin.com/in/ben-dias)  
+
 ---
 
 Feel free to explore my repositories, connect with me, or reach out!
