@@ -31,4 +31,3 @@ Feel free to explore my repositories, connect with me, or reach out!
 
 ---
 
-*This README will appear on my GitHub profile as an overview of my work.*
